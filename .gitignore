@@ -1,1 +1,8 @@
 pet_harg/*
+output/*
+extreme_events_analysis/
+*.png
+hydroDL-dev/example/dPLHBV/prcp_wghts1.csv
+hydroDL-dev/example/dPLHBV/prcp_wghts2.csv
+hydroDL-dev/example/dPLHBV/prcp_wghts3.csv
+.idea/
